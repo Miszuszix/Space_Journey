@@ -1,0 +1,2 @@
+globalvar canChange;
+canChange = true;
