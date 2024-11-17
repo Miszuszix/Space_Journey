@@ -58,8 +58,6 @@
     {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},},
     {"id":{"name":"s_satellite","path":"sprites/s_satellite/s_satellite.yy",},},
     {"id":{"name":"s_smallStars","path":"sprites/s_smallStars/s_smallStars.yy",},},
-    {"id":{"name":"skibidi_sigma","path":"sprites/skibidi_sigma/skibidi_sigma.yy",},},
-    {"id":{"name":"test","path":"sprites/test/test.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
